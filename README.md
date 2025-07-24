@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @OverDsh
 - 👀 I’m interested in coding and everything tech related!
-- 🌱 I’m currently learning Github Workflows and Github in general
+- 🌱 I’m currently learning how crypto works
 - 📫 How to reach me:
 - => Discord: @overdsh_
-- => Bluesky: @overdsh.bsky.social
+- => Mail: valartcode@gmail.com
 - ⚡ Fun fact: You can get money by pressing Ctrl + Shift + Windows + Alt + L 🤯
 
 <!---
